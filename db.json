@@ -1,0 +1,35 @@
+events:[
+        {
+          id:53444,
+          category:'Animal welfare',
+          title:'Dog adoption day',
+          description:'some description',
+          location:'Belgrade City',
+          date:'January 28, 2022',
+          time:'12:00',
+          petsAllowed:true,
+          organizer:'Vuk Puric'
+        },
+        {
+          id:53445,
+          category:'animal welfare',
+          title:'cat adoption day',
+          description:'some description',
+          location:'Belgrade City',
+          date:'January 28, 2022',
+          time:'12:00',
+          petsAllowed:true,
+          organizer:'Kat Laydee'
+        },
+        {
+          id:53446,
+          category:'animal welfare',
+          title:'Dog and cats adoption day',
+          description:'some description',
+          location:'Belgrade City',
+          date:'January 29, 2022',
+          time:'12:00',
+          petsAllowed:true,
+          organizer:'Vuk Puric and Kat Laydee'
+        }
+      ]
