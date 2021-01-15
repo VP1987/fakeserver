@@ -1,4 +1,5 @@
-events:[
+{
+        events:[
         {
           id:53444,
           category:'Animal welfare',
@@ -33,3 +34,4 @@ events:[
           organizer:'Vuk Puric and Kat Laydee'
         }
       ]
+}
